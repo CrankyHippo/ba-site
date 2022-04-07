@@ -1,21 +1,22 @@
 import logo from "./logo.svg";
 import "./App.css";
+import ContentBox from "./components/contentbox";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Doom Battle Arena</h1>
-        <p>This is where the story goes.</p>
-        {/* <a
+        <h1>The Story</h1>
+        <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://youtu.be/dhNFoDpc62I"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a> */}
+          Doom Battle Arena Video
+        </a>
+        <ContentBox />
       </header>
     </div>
   );
