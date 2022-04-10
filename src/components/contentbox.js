@@ -4,7 +4,7 @@ export default function ContentBox() {
   return (
     <div className="fade">
       <p className="content">
-        <h1>Title</h1>
+        <h1>The Story</h1>
         <hr></hr>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Euismod elementum

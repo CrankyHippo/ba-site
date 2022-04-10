@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>The Story</h1>
+        <ContentBox />
         <a
           className="App-link"
           href="https://youtu.be/dhNFoDpc62I"
@@ -16,7 +16,6 @@ function App() {
         >
           Doom Battle Arena Video
         </a>
-        <ContentBox />
       </header>
     </div>
   );
