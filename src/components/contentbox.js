@@ -18,15 +18,7 @@ export default function ContentBox() {
           eget sit amet tellus cras. Suspendisse sed nisi lacus sed viverra
           tellus. Sed elementum tempus egestas sed sed risus pretium quam
           vulputate. Vel quam elementum pulvinar etiam non quam lacus
-          suspendisse. Lorem sed risus ultricies tristique nulla aliquet.
-          Tincidunt lobortis feugiat vivamus at. Consectetur lorem donec massa
-          sapien faucibus et molestie ac. Consequat id porta nibh venenatis. Et
-          egestas quis ipsum suspendisse. Neque laoreet suspendisse interdum
-          consectetur libero id faucibus nisl. Id faucibus nisl tincidunt eget
-          nullam non nisi est sit. Malesuada fames ac turpis egestas integer
-          eget. Aenean et tortor at risus viverra adipiscing at. Dolor morbi non
-          arcu risus quis varius quam. Dignissim sodales ut eu sem integer vitae
-          justo eget magna.
+          suspendisse.
         </span>
         <Image image="content.png" />
       </span>
